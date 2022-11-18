@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/METALbrasier2X0/React-Portfolio/static/css/main.89b31bcf.css",
+    "main.js": "/METALbrasier2X0/React-Portfolio/static/js/main.a96299c2.js",
+    "static/js/787.1ed0c42c.chunk.js": "/METALbrasier2X0/React-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/METALbrasier2X0/React-Portfolio/index.html",
+    "main.89b31bcf.css.map": "/METALbrasier2X0/React-Portfolio/static/css/main.89b31bcf.css.map",
+    "main.a96299c2.js.map": "/METALbrasier2X0/React-Portfolio/static/js/main.a96299c2.js.map",
+    "787.1ed0c42c.chunk.js.map": "/METALbrasier2X0/React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89b31bcf.css",
+    "static/js/main.a96299c2.js"
+  ]
+}
