@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://metalbrasier2x0.github.io/METALbrasier2X0/React-Portfolio",
+
   "dependencies": {
     "@react-three/drei": "^9.29.1",
     "@react-three/fiber": "^8.7.2",
